@@ -1,0 +1,6 @@
+C:\Users\golu\Documents\Visual Studio 2012\Projects\JenkinsDotNetProject\JenkinsDemo\Jenkins\Jenkins\bin\Debug\Jenkins.exe.config
+C:\Users\golu\Documents\Visual Studio 2012\Projects\JenkinsDotNetProject\JenkinsDemo\Jenkins\Jenkins\bin\Debug\Jenkins.exe
+C:\Users\golu\Documents\Visual Studio 2012\Projects\JenkinsDotNetProject\JenkinsDemo\Jenkins\Jenkins\bin\Debug\Jenkins.pdb
+C:\Users\golu\Documents\Visual Studio 2012\Projects\JenkinsDotNetProject\JenkinsDemo\Jenkins\Jenkins\obj\Debug\Jenkins.csprojResolveAssemblyReference.cache
+C:\Users\golu\Documents\Visual Studio 2012\Projects\JenkinsDotNetProject\JenkinsDemo\Jenkins\Jenkins\obj\Debug\Jenkins.exe
+C:\Users\golu\Documents\Visual Studio 2012\Projects\JenkinsDotNetProject\JenkinsDemo\Jenkins\Jenkins\obj\Debug\Jenkins.pdb
