@@ -6,7 +6,7 @@ pipeline {
             steps {
                 sh '''
 				dotnet restore Jenkins/Jenkins/Jenkins.csproj
-				dotnet build Jenkins/Jenkins/Jenkins.csproj --release
+				dotnet build Jenkins/Jenkins/Jenkins.csproj
 				'''
             }
         }
