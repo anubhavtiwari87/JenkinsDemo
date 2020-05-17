@@ -5,8 +5,8 @@ pipeline {
         stage('Build') {
             steps {
                 sh '''
-				dotnet restore Jenkins/Jenkins/optum.aru.fct.agent.csproj
-				dotnet build Jenkins/Jenkins/optum.aru.fct.agent.csproj
+				dotnet restore Jenkins/Jenkins/Jenkins.csproj
+				dotnet build Jenkins/Jenkins/Jenkins.csproj
 				'''
             }
         }
